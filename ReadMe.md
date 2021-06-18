@@ -2,7 +2,6 @@
  <div>
   <a href="https://github.com/mfernandacs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfernandacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandacs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" src="https://media.giphy.com/media/26gsjOSeQbbduvOMg/giphy.gif">
