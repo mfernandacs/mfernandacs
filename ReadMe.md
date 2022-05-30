@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
     
-  <a href="http://api.whatsapp.com/send?phone=5512992286259" alt="WhatsApp">
+  <a href="http://api.whatsapp.com/send?phone=5512992146076" alt="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
   
