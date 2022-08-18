@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
  </div>
-  
-
+ 
+  ![Snake animation](https://github.com/mfernandacs/mfernandacs/blob/output/github-contribution-grid-snake.svg)
  
   
  
