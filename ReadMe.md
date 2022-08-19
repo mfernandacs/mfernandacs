@@ -14,5 +14,4 @@
   ![Snake animation](https://github.com/mfernandacs/mfernandacs/blob/output/github-contribution-grid-snake.svg)
  
   
- a
-
+ 
