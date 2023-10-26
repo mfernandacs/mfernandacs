@@ -61,14 +61,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mfernandacs/mfernandacs/output/snake.svg" alt="Snake animation" />
-
-![snake gif](https://github.com/mfernandacs/mfernandacs/blob/output/github-contribution-grid-snake.gif)
-
-###
-
 <p align="left">🚀 Thanks for stopping by and exploring my GitHub profile. Your feedback and contributions are always welcome.</p>
 
 ###
+
+## Snake eating my contribuitin
+![snake gif](https://github.com/mfernandacs/mfernandacs/blob/output/github-contribution-grid-snake.gif)
