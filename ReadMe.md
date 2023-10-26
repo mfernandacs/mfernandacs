@@ -1,6 +1,8 @@
-<h2 align="left">Hello 👋, it's great to have you here! I'm Maria Fernanda.</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fafafa&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;It's+great+to+have+you+here!+😁;I'm+Maria+Fernanda;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ###
+<!--<h2 align="left">Hello 👋, it's great to have you here! I'm Maria Fernanda.</h2> -->
 
 <p align="left">👩‍💻 I'm a FullStack software developer with a strong focus on Backend development, hailing from Taubaté, São Paulo, Brazil. I also have extensive expertise in ERP and commercial automation.</p>
 
@@ -68,4 +70,6 @@
 <p align="left">🚀 Thanks for stopping by and exploring my GitHub profile. Your feedback and contributions are always welcome.</p>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=footer"/>
 
