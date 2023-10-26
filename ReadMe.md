@@ -21,6 +21,9 @@
 ###
 
 <div align="left">
+ 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_delphi_icon_130648.png" height="30" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
@@ -40,8 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_delphi_icon_130648.png" height="30" alt="css3 logo"  />
+  
 </div>
 
 ###
