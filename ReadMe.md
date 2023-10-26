@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://icons8.com.br/icon/105446/ide-do-delphi" height="30" alt="css3 logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_delphi_icon_130648.png" height="30" alt="css3 logo"  />
 </div>
 
 ###
