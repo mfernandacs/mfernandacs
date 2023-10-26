@@ -65,6 +65,8 @@
 
 <img src="https://raw.githubusercontent.com/mfernandacs/mfernandacs/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ###
 
 <p align="left">🚀 Thanks for stopping by and exploring my GitHub profile. Your feedback and contributions are always welcome.</p>
