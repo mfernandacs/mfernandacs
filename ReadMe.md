@@ -61,6 +61,10 @@
 
 ###
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mfernandacs&bg_color=282a36&color=fafafa&line=ff6e96&point=79dafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###
+
 <p align="left">🚀 Thanks for stopping by and exploring my GitHub profile. Your feedback and contributions are always welcome.</p>
 
 ###
