@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋, it's great to have you here! I'm Maria Fernanda.</h2>
+<h2 align="left">Hello 👋, Nice to meet you! I'm Maria Fernanda.</h2>
 
 ###
 
