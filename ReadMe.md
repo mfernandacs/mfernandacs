@@ -59,11 +59,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfernandacs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ###
 
 <p align="left">🚀 Thanks for stopping by and exploring my GitHub profile. Your feedback and contributions are always welcome.</p>
 
 ###
 
-## Snake eating my contribuitin
-![snake gif](https://github.com/mfernandacs/mfernandacs/blob/output/github-contribution-grid-snake.gif)
